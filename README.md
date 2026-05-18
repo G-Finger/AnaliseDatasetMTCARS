@@ -1,5 +1,5 @@
 # AnaliseDatasetMTCARS
-Análise acadêmica e didática do dateset mtcars em linguagem R. 
+Análise acadêmica e didática do dataset mtcars em linguagem R. 
 As bibliotecas necessárias estão descritas no programa e devem ser observadas para que o programa rode de maneira correta.
 -> Instalar as bibliotecas e carregar no ambiente, como no exemplo.
       library("nome da bibliotecas")
